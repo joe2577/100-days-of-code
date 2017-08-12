@@ -9,3 +9,13 @@
 
 **Link(s) to work**
 1. [Survey Form](https://codepen.io/joe2577/pen/wemBzG/?editors=1100)
+
+### Day 2: August 11, 2017  Friday
+
+**Today's progress**: I continued on the survey form.  Figured out difference between radio & checkboxes.  Made my first dropdown box!
+
+**Thoughts** Once I got started it got easier.  Still a lot of google-ing to figure out how to write the code.  With time I guess.
+
+**Link(s) to Work**
+1.[Survey Form](https://codepen.io/joe2577/pen/wemBzG/
+1.[Survey Form](https://codepen.io/joe2577/pen/wemBzG/)
